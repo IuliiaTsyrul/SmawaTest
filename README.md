@@ -1,0 +1,1 @@
+Command to build project and execute tests: mvn clean install
